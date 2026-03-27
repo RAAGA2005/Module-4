@@ -36,7 +36,6 @@ To write a Python program to perform addition and division operations using a cl
 
 ```python
 
-
 class cse:
     def __init__(self, a, b):
         self.a=a
