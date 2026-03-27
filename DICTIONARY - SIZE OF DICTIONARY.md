@@ -22,8 +22,7 @@ To write a Python program to print the size of a dictionary using `getsizeof()` 
 ### PROGRAM
 
 ```python
-#Reg.No-212222060253
-#Name- SRIJAYAN T
+
 
 from sys import getsizeof
 dic1 = {"A": 1, "B": 2, "C": 3}
